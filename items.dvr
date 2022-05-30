@@ -50,6 +50,22 @@
         },
         {
             "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NTA=",
+            "id": 2189,
+            "name": "AHB80N16F-GL",
+            "usage": "",
+            "version": "0000024P"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDk=",
+            "id": 2190,
+            "name": "MVB80X04M-HL-S",
+            "usage": "",
+            "version": "00000244"
+        },
+        {
+            "downloadMenuId": 5,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NTY=",
             "id": 2125,
             "name": "NBD89N08T-PLC-XPOE",
@@ -63,6 +79,14 @@
             "name": "NBD80N32RA-KL",
             "usage": "",
             "version": "0000023X"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NjM=",
+            "id": 2188,
+            "name": "NBD90X04Q-UW",
+            "usage": "",
+            "version": "0000023V"
         },
         {
             "downloadMenuId": 5,
@@ -1369,5 +1393,5 @@
             "version": "00000001"
         }
     ],
-    "total": 171
+    "total": 174
 }

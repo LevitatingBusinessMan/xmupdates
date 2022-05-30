@@ -2,6 +2,46 @@
     "rows": [
         {
             "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mzg=",
+            "id": 2191,
+            "name": "IPC_GK7202V300_G3-WR_S38.713g",
+            "usage": "",
+            "version": "000759L5.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mzc=",
+            "id": 2192,
+            "name": "IPC_NT98566_N8-PFCD.Nat.dss.OnvifS.HIK",
+            "usage": "",
+            "version": "000749L6.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MzA=",
+            "id": 2193,
+            "name": "IPC_GK7205V200_85HF30T.Nat.dss.OnvifS.HIK",
+            "usage": "",
+            "version": "000739CD.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MTk=",
+            "id": 2194,
+            "name": "IPC_GK7205V200_50H20AI.Nat.dss.OnvifS.HIK",
+            "usage": "",
+            "version": "000739A7.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mjk=",
+            "id": 2195,
+            "name": "IPC_GK7205V300_83K50W_S38",
+            "usage": "",
+            "version": "000709HC.1"
+        },
+        {
+            "downloadMenuId": 6,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NjA=",
             "id": 2129,
             "name": "IPC_GK7205V300_85K50T.Nat",
@@ -15,6 +55,22 @@
             "name": "IPC_GK7605V100_83K50W_S38",
             "usage": "",
             "version": "000669HC.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0ODk=",
+            "id": 2196,
+            "name": "IPC_GK7205V200_80G30-ER_S38.Nat.",
+            "usage": "",
+            "version": "000659I1.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NTQ=",
+            "id": 2197,
+            "name": "IPC_GK7205V200_80GF30PSA-RG_S38.713g.Nat.dss.OnvifS",
+            "usage": "",
+            "version": "000659H9.1"
         },
         {
             "downloadMenuId": 6,
@@ -34,11 +90,83 @@
         },
         {
             "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mzk=",
+            "id": 2198,
+            "name": "IPC_NT98566_N4-LQ2_S38.Nat.dss",
+            "usage": "",
+            "version": "000639L9.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDY=",
+            "id": 2199,
+            "name": "IPC_NT98566_IPG-N2-4GQC2_S38",
+            "usage": "",
+            "version": "000639L3.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MjU=",
+            "id": 2200,
+            "name": "IPC_NT98566_IPG-N2-WQ2_S38.713g",
+            "usage": "",
+            "version": "000639L0.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDQ=",
+            "id": 2201,
+            "name": "IPC_NT98566_80N80PS-R_S38.Nat.dss",
+            "usage": "",
+            "version": "000639K6.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MTc=",
+            "id": 2202,
+            "name": "IPC_NT98566_IPG-N4-WQ2_S38.713g.Nat.dss.OnvifS",
+            "usage": "",
+            "version": "000639I8.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0ODY=",
+            "id": 2203,
+            "name": "IPC_NT98566_85N80_S38.Nat.dss",
+            "usage": "",
+            "version": "000639I2.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0OTU=",
+            "id": 2204,
+            "name": "IPC_NT98566_N8-WQ_S38.713g",
+            "usage": "",
+            "version": "000639I0.1"
+        },
+        {
+            "downloadMenuId": 6,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NDI=",
             "id": 2133,
             "name": "IPC_NT98566_80N50_S38.",
             "usage": "",
             "version": "000639H4.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MzI=",
+            "id": 2205,
+            "name": "IPC_NT98562_N4L_S38.Nat.dss.OnvifS.HIK",
+            "usage": "",
+            "version": "000629JE.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDU=",
+            "id": 2206,
+            "name": "IPC_NT98562_80N40PS-R_S38",
+            "usage": "",
+            "version": "000629JD.1"
         },
         {
             "downloadMenuId": 6,
@@ -1793,5 +1921,5 @@
             "version": "00001510.1"
         }
     ],
-    "total": 224
+    "total": 240
 }
