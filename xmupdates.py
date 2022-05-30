@@ -6,6 +6,12 @@ import json
 catalog = {
     6: 'ipc',
     5: 'dvr',
+    7: 'kyoho',
+    8: 'boutique',
+    9: 'HZXM',
+    63: 'wifinvr',
+    70: 'kyoho_newstyle',
+    72: 'kyoho_newstyle_ipc'
 }
 
 #curl 'https://baike.xm030.cn/download/pagination.do' --data-raw 'page=1&rows=50&paramValue=5'
